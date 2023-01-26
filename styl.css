@@ -1,0 +1,43 @@
+body {
+    background-color: #8e6faa;
+}
+
+#nums {
+    color: rgb(220, 220, 220);
+    margin-top: 70px;
+    margin-left: 50px;
+    font-size: 70px;
+    font-family: "Gill Sans", sans-serif;
+}
+#qz {
+    margin-left: 100px;
+    color: white;
+    font-size: 40px;
+
+}
+#radio {
+    margin-left: 50px;
+    margin-top: 100px;
+   transform:scale(1.9);
+}
+#txt {
+    
+    color: white;
+    font-size: 45px;
+    margin-left: 110px;
+}
+#inp {
+    margin-left: 90px;
+    font-size: 30px;
+    color: rgb(255, 255, 255);
+}
+#next{
+    color: rgb(255, 255, 255);
+    background-color: rgb(75, 75, 75);
+    border-radius: 18px;
+    font-size: 25px;
+    height: 60px;
+    width: 200px;
+    margin-left: 9%;
+    margin-top: 9%;
+}
